@@ -1,0 +1,17 @@
+[
+    {
+        "name": "NodeJS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+        "url": "https://nodejs.org/"
+    },
+    {
+        "name": "Kotlin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg",
+        "url": "https://kotlinlang.org/"
+    },
+    {
+        "name": "Golang",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
+        "url": "https://go.dev/"
+    }
+]

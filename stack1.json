@@ -1,0 +1,17 @@
+[
+    {
+        "name": "MongoDB",
+        "image": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+        "url": "https://www.mongodb.com/"
+    },
+    {
+        "name": "DynamoDB",
+        "image": "https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg",
+        "url": "https://aws.amazon.com/dynamodb/"
+    },
+    {
+        "name": "Cloud Firestore",
+        "image": "https://retool.com/integrations-logos/firestore.svg",
+        "url": "https://firebase.google.com/docs/firestore"
+    }
+]

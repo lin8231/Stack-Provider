@@ -1,0 +1,17 @@
+[
+    {
+        "name": "ExpressJS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+        "url": "https://expressjs.com/"
+    },
+    {
+        "name": "NestJS",
+        "image": "https://docs.nestjs.com/assets/logo-small.svg",
+        "url": "https://nestjs.com/"
+    },
+    {
+        "name": "Ktor",
+        "image": "https://plugins.jetbrains.com/files/16008/124940/icon/pluginIcon.svg",
+        "url": "https://ktor.io/"
+    }
+]

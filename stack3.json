@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Angular",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg",
+        "url": "https://angular.io/"
+    },
+    {
+        "name": "React",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+        "url": "https://reactjs.org/"
+    },
+    {
+        "name": "Vue",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+        "url": "https://reactjs.org/"
+    }
+]

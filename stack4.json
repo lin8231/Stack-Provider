@@ -10,9 +10,24 @@
         "url": "https://nodejs.org/"
     },
     {
-        "name": "Golang",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
-        "url": "https://go.dev/"
+        "name": "NodeJS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+        "url": "https://nodejs.org/"
+    },
+    {
+        "name": "Java",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+        "url": "https://www.java.com/"
+    },
+    {
+        "name": "Python",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+        "url": "https://www.python.org/"
+    },
+    {
+        "name": "Ruby",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
+        "url": "https://www.ruby-lang.org/en/"
     },
     {
         "name": "Python",
@@ -25,18 +40,23 @@
         "url": "https://www.php.net/"
     },
     {
-        "name": "Java",
-        "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
-        "url": "https://www.java.com/"
-    },
-    {
-        "name": "Ruby",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
-        "url": "https://www.ruby-lang.org/en/"
-    },
-    {
         "name": "C#",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg",
         "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+    },
+    {
+        "name": "Deno",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg",
+        "url": "https://deno.land/"
+    },
+    {
+        "name": "Golang",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
+        "url": "https://go.dev/"
+    },
+    {
+        "name": "Perl",
+        "image": "https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg",
+        "url": "https://www.perl.org/"
     }
 ]

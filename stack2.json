@@ -44,14 +44,14 @@
         "url": "https://docs.microsoft.com/en-us/aspnet/core/"
     },
     {
-        "name": "Meteor",
-        "image": "https://cdn.worldvectorlogo.com/logos/meteor-icon.svg",
-        "url": "https://www.meteor.com/"
+        "name": "Oak",
+        "image": "https://freesvg.org/img/oaktree-mono.png",
+        "url": "https://github.com/oakserver/oak"
     },
     {
-        "name": "Deno",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg",
-        "url": "https://deno.land/"
+        "name": "Gin",
+        "image": "https://raw.githubusercontent.com/gin-gonic/logo/master/color.png",
+        "url": "https://gin-gonic.com/"
     },
     {
         "name": "Mojolicious",

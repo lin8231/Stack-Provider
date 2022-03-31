@@ -1,4 +1,8 @@
-[
+[   {
+        "name": "Ktor",
+        "image": "https://plugins.jetbrains.com/files/16008/124940/icon/pluginIcon.svg",
+        "url": "https://ktor.io/"
+    },
     {
         "name": "ExpressJS",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
@@ -10,8 +14,48 @@
         "url": "https://nestjs.com/"
     },
     {
-        "name": "Ktor",
-        "image": "https://plugins.jetbrains.com/files/16008/124940/icon/pluginIcon.svg",
-        "url": "https://ktor.io/"
+        "name": "Spring Boot",
+        "image": "https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg",
+        "url": "Spring"
+    },
+    {
+        "name": "Flask",
+        "image": "https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png",
+        "url": "https://flask.palletsprojects.com/"
+    },
+    {
+        "name": "Ruby on Rails",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png",
+        "url": "https://rubyonrails.org/"
+    },
+    {
+        "name": "Django",
+        "image": "https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png",
+        "url": "https://www.djangoproject.com/"
+    },
+    {
+        "name": "Laravel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png",
+        "url": "https://laravel.com/"
+    },
+    {
+        "name": "ASP .NET",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg",
+        "url": "https://docs.microsoft.com/en-us/aspnet/core/"
+    },
+    {
+        "name": "Meteor",
+        "image": "https://cdn.worldvectorlogo.com/logos/meteor-icon.svg",
+        "url": "https://www.meteor.com/"
+    },
+    {
+        "name": "Deno",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg",
+        "url": "https://deno.land/"
+    },
+    {
+        "name": "Mojolicious",
+        "image": "https://camo.githubusercontent.com/357c543eb8a9791e8f649097855a91d885f5a60112210115840e7059ca84bd57/68747470733a2f2f7261772e6769746875622e636f6d2f6d6f6a6f6c6963696f75732f6d6f6a6f2f6d61696e2f6c69622f4d6f6a6f6c6963696f75732f7265736f75726365732f7075626c69632f6d6f6a6f2f6c6f676f2e706e673f7261773d74727565",
+        "url": "https://mojolicious.org/"
     }
 ]

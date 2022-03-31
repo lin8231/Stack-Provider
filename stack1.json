@@ -13,5 +13,50 @@
         "name": "Cloud Firestore",
         "image": "https://retool.com/integrations-logos/firestore.svg",
         "url": "https://firebase.google.com/docs/firestore"
+    },
+    {
+        "name": "Couchbase",
+        "image": "https://iconape.com/wp-content/png_logo_vector/couchbase-2.png",
+        "url": "https://www.couchbase.com/"
+    },
+    {
+        "name": "Redis",
+        "image": "https://cdn.worldvectorlogo.com/logos/redis.svg",
+        "url": "https://redis.io/"
+    },
+    {
+        "name": "Cassandra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg",
+        "url": "https://cassandra.apache.org/_/index.html"
+    },
+    {
+        "name": "HBase",
+        "image": "https://symbols.getvecta.com/stencil_261/5_apache-hbase.adf391d18e.svg",
+        "url": "https://hbase.apache.org/"
+    },
+    {
+        "name": "IBM Cloudant",
+        "image": "https://symbols.getvecta.com/stencil_261/17_ibm-cloudant.27ba6c30ec.svg",
+        "url": "https://www.ibm.com/cloud/cloudant"
+    },
+    {
+        "name": "RavenDB",
+        "image": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_30e9c819f3fc162460f4ecf69a391b94/ravendb.png",
+        "url": "https://ravendb.net/"
+    },
+    {
+        "name": "CosmosDB",
+        "image": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/74230iC3CF45B879F897EE",
+        "url": "https://cosmos.azure.com/"
+    },
+    {
+        "name": "ScyllaDB",
+        "image": "https://www.scylladb.com/wp-content/uploads/scylla-opensource-1.png",
+        "url": "https://www.scylladb.com/"
+    },
+    {
+        "name": "Oracle NoSQL",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6c5604fba6b895867c86f53dea129502/oracle-nosql-database-cloud.png",
+        "url": "https://www.oracle.com/database/nosql/"
     }
 ]

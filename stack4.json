@@ -1,17 +1,42 @@
 [
     {
-        "name": "NodeJS",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
-        "url": "https://nodejs.org/"
-    },
-    {
         "name": "Kotlin",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg",
         "url": "https://kotlinlang.org/"
     },
     {
+        "name": "NodeJS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+        "url": "https://nodejs.org/"
+    },
+    {
         "name": "Golang",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
         "url": "https://go.dev/"
+    },
+    {
+        "name": "Python",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+        "url": "https://www.python.org/"
+    },
+    {
+        "name": "PHP",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+        "url": "https://www.php.net/"
+    },
+    {
+        "name": "Java",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+        "url": "https://www.java.com/"
+    },
+    {
+        "name": "Ruby",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
+        "url": "https://www.ruby-lang.org/en/"
+    },
+    {
+        "name": "C#",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg",
+        "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
     }
 ]

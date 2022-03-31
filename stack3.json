@@ -13,5 +13,25 @@
         "name": "Vue",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
         "url": "https://reactjs.org/"
+    },
+    {
+        "name": "Svelte",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg",
+        "url": "https://svelte.dev/"
+    },
+    {
+        "name": "Ember",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Font_Awesome_5_brands_ember.svg",
+        "url": "https://emberjs.com/"
+    },
+    {
+        "name": "jQuery",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg",
+        "url": "https://jquery.com/"
+    },
+    {
+        "name": "SemanticUI",
+        "image": "https://seeklogo.com/images/S/semantic-ui-logo-AFDC4C7E31-seeklogo.com.png",
+        "url": "https://semantic-ui.com/"
     }
 ]

@@ -58,5 +58,10 @@
         "name": "Oracle NoSQL",
         "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6c5604fba6b895867c86f53dea129502/oracle-nosql-database-cloud.png",
         "url": "https://www.oracle.com/database/nosql/"
+    },
+    {
+        "name": "Raw JSON Files",
+        "image": "https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+json-1324451334764227831.png",
+        "url": "https://www.json.org/json-en.html"
     }
 ]

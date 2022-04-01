@@ -57,5 +57,10 @@
         "name": "Mojolicious",
         "image": "https://camo.githubusercontent.com/357c543eb8a9791e8f649097855a91d885f5a60112210115840e7059ca84bd57/68747470733a2f2f7261772e6769746875622e636f6d2f6d6f6a6f6c6963696f75732f6d6f6a6f2f6d61696e2f6c69622f4d6f6a6f6c6963696f75732f7265736f75726365732f7075626c69632f6d6f6a6f2f6c6f676f2e706e673f7261773d74727565",
         "url": "https://mojolicious.org/"
+    },
+    {
+        "name": "Lithium",
+        "image": "https://raw.githubusercontent.com/matt-42/lithium/master/images/lithium_logo_white.png",
+        "url": "https://matt-42.github.io/lithium/"
     }
 ]

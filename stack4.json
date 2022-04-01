@@ -63,5 +63,15 @@
         "name": "C++",
         "image": "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png",
         "url": "https://www.cplusplus.com/"
+    },
+    {
+        "name": "LOLCODE",
+        "image": "http://www.lolcode.org/img/logo.png",
+        "url": "http://www.lolcode.org/"
+    },
+    {
+        "name": "JSFuck",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/JSFuck_Logo.svg/512px-JSFuck_Logo.svg.png",
+        "url": "http://www.jsfuck.com/"
     }
 ]

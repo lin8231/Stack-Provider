@@ -58,5 +58,10 @@
         "name": "Perl",
         "image": "https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg",
         "url": "https://www.perl.org/"
+    },
+    {
+        "name": "C++",
+        "image": "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png",
+        "url": "https://www.cplusplus.com/"
     }
 ]

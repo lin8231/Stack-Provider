@@ -62,5 +62,15 @@
         "name": "Lithium",
         "image": "https://raw.githubusercontent.com/matt-42/lithium/master/images/lithium_logo_white.png",
         "url": "https://matt-42.github.io/lithium/"
+    },
+    {
+        "name": "LCI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/LOLCode_logo.png",
+        "url": "https://github.com/justinmeza/lci"
+    },
+    {
+        "name": "ExpressJS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+        "url": "https://expressjs.com/"
     }
 ]
